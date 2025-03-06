@@ -44,7 +44,7 @@ nav ul li a {
     font-weight: bold;
     background: #555000;
     padding: 5px 10px;
-    border-radius: 10px;
+    border-radius: 3px;
     display: inline-block;
     traansition: 0.3s ease-in-out;
 }

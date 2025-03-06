@@ -61,10 +61,15 @@ nav ul li a {
 }
 
 .in-page-links a {
+    display: inline-block;
     text-decoration: none;
-    color: #000000;
-    display: block;
-    margin: 5px 0;
+    color: white; 
+    font-weight: bold;
+    background: #007bff; 
+    padding: 10px 15px;
+    border-radius: 25px; 
+    margin: 5px;
+    transition: 0.3s ease-in-out; 
 }
 
 .content-box {

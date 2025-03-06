@@ -3,9 +3,18 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffed;
-    max-width: 340px;
-    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    width: 340px;
     padding: 20px;
+    background: white;
+    border-radius: 5px;
 }
 
 header {

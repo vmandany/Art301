@@ -43,8 +43,8 @@ nav ul li a {
     color: white;
     font-weight: bold;
     background: #555000;
-    padding: 10px 15px;
-    border-radius: 40px;
+    padding: 5px 10px;
+    border-radius: 10px;
     display: inline-block;
     traansition: 0.3s ease-in-out;
 }

@@ -117,4 +117,22 @@ footer {
     color: white;
     text-align: center;
 }
+a {
+    color: #007bff;
+    text-decoration: none; 
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0056b3; 
+    text-decoration: underline; 
+}
+
+a:visited {
+    color: #800080; 
+}
+
+a:active {
+    color: #ff0000;
+}
 

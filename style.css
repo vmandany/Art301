@@ -61,6 +61,7 @@ nav ul li a {
     margin: 20px 0;
     background: #ffcc00;
     border-radius: 5px;
+    padding: 10px;
 }
 
 .in-page-links a {
@@ -70,7 +71,7 @@ nav ul li a {
     font-weight: bold;
     background: #cc101f;; 
     padding: 10px 15px;
-    border-radius: 25px; 
+    border-radius: 20px; 
     margin: 5px;
     transition: 0.3s ease-in-out; 
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);

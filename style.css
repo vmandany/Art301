@@ -119,21 +119,25 @@ footer {
 }
 
 .phase1-bg {
-    background-color: #007bff !important; /* Blue */
-    color: white; /* Ensures text is readable */
+    background-color: #cc101f !important; 
+    color: white; 
+    border: 5px solid #000000;
 }
 
 .phase2-bg {
-    background-color: #28a745 !important; /* Green */
+    background-color: #faf71d !important; 
     color: white;
+    border: 5px solid #000000;
 }
 
 .phase3-bg {
-    background-color: #dc3545 !important; /* Red */
+    background-color: #0e78f7 !important; 
     color: white;
+    border: 5px solid #000000;
 }
 
 .phase4-bg {
-    background-color: #6c757d !important; /* Gray */
+    background-color: #03a51e !important; 
     color: white;
+    border: 5px solid #000000;
 }

@@ -120,24 +120,24 @@ footer {
 
 .phase1-bg {
     background-color: #cc101f !important; 
-    color: white; 
+    color: #000000; 
     border: 5px solid #000000;
 }
 
 .phase2-bg {
     background-color: #faf71d !important; 
-    color: white;
+    color: #000000;
     border: 5px solid #000000;
 }
 
 .phase3-bg {
     background-color: #0e78f7 !important; 
-    color: white;
+    color: #000000;
     border: 5px solid #000000;
 }
 
 .phase4-bg {
     background-color: #03a51e !important; 
-    color: white;
+    color: #000000;
     border: 5px solid #000000;
 }

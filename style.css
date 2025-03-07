@@ -47,7 +47,6 @@ nav ul li a {
     border-radius: 3px;
     display: inline-block;
     traansition: 0.3s ease-in-out;
-    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
 }
 
 .title {
@@ -74,7 +73,6 @@ nav ul li a {
     border-radius: 20px; 
     margin: 5px;
     transition: 0.3s ease-in-out; 
-    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
 }
 
 .content-box {

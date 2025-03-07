@@ -118,3 +118,22 @@ footer {
     text-align: center;
 }
 
+.phase1-bg {
+    background-color: #007bff !important; /* Blue */
+    color: white; /* Ensures text is readable */
+}
+
+.phase2-bg {
+    background-color: #28a745 !important; /* Green */
+    color: white;
+}
+
+.phase3-bg {
+    background-color: #dc3545 !important; /* Red */
+    color: white;
+}
+
+.phase4-bg {
+    background-color: #6c757d !important; /* Gray */
+    color: white;
+}

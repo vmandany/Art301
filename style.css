@@ -60,6 +60,7 @@ nav ul li a {
     text-align: center;
     margin: 20px 0;
     background: #ffcc00;
+    border-radius: 5px;
 }
 
 .in-page-links a {

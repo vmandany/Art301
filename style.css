@@ -106,14 +106,15 @@ footer {
 .pft-table th, .pft-table td {
     border: 1px solid #ccc;
     padding: 10px;
+    background-color: white;
 }
 
+.pft-table tr.run-row {
+    background-color: #e6e6e6; 
+}
 .pft-table th {
     background-color: #cc101f;
     color: white;
     text-align: center;
 }
 
-.pft-table tr:nth-child(even) {
-    background-color: #f9f9f9;
-}

@@ -95,3 +95,25 @@ footer {
     text-align: center;
     padding: 10px;
 }
+.pft-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+}
+
+.pft-table th, .pft-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.pft-table th {
+    background-color: #cc101f;
+    color: white;
+    text-align: center;
+}
+
+.pft-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
